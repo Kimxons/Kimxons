@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything
 - 📫 How to reach me: Contact links are on my bio. 
-- 😄 Pronouns: he
+
 
 ### Github Stats
 <table>
