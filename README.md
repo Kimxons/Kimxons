@@ -1,4 +1,4 @@
-Hi there 👋 I am Meshack, a Data Scientist.
+Hi there 👋 I am Meshack.
 
 - 🌱 A Data Scientist
 - 💬 Ask me about Data Science, Python, Data analytics
