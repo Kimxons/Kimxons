@@ -8,5 +8,5 @@ Development: Azure Data Factory, Azure DevOps, AWS Lambda, AWS API Gateway, AWS 
 Database: SQL, PostgreSQL, MySQL, SQLite, MongoDB
 Natural Language Processing: spaCy, TextBlob, NLTK
 
-Contact me
+## Contact me
 [LinkedIn](https://www.linkedin.com/in/meshack-kitonga-94336a121/)
