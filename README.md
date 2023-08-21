@@ -9,4 +9,4 @@ Database: SQL, PostgreSQL, MySQL, SQLite, MongoDB
 Natural Language Processing: spaCy, TextBlob, NLTK
 
 ## Contact me
-    ### [LinkedIn](https://www.linkedin.com/in/meshack-kitonga-94336a121/)
+### [LinkedIn](https://www.linkedin.com/in/meshack-kitonga-94336a121/)
