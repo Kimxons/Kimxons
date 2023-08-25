@@ -1,15 +1,15 @@
-## Greetings, fellow carbon-based lifeforms! 👾
+## Heyy, I am Meshack - I am human, no alien 👾
 
-I am Meshack, a quantum-entangled Data Scientist traversing the realms of reality and neural networks. My neural pathways are optimized for Deep Learning adventures, and here's a peek into my digital toolkit:
+I am Data Scientist traversing the realms of reality and neural networks. My neural pathways are optimized for Deep Learning adventures, and here's a peek into my digital toolkit:
 
 ### Preferred Tools in my Utility Belt:
-- `import` Python
-- `import` PyTorch, TensorFlow
-- `from` Flask `import` enthusiasm
-- `from` Django `import` creativity
-- `import` Apache Spark for electrifying insights
-- `import` AWS SageMaker for cloud-walking experiments
-- `import` Java SpringBoot to spring into action
+- Python
+- PyTorch, TensorFlow
+- Flask
+- Django
+- Apache Spark
+- AWS SageMaker
+- Java SpringBoot
 
 ### Current XP Gain:
 - Leveling up my Mathematics spellbook for Machine Learning mastery
