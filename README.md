@@ -1,17 +1,10 @@
-## Heyy, I am Meshack - I am human, no alien 👾
 
-I am Data Scientist traversing the realms of reality and neural networks. My neural pathways are optimized for Deep Learning adventures, and here's a peek into my digital toolkit:
+🔭 I’m currently working on Django / Python, PostgreSQL, AWS, Serverless based products.
 
-### Preferred Tools in my Utility Belt:
-- Python
-- PyTorch, TensorFlow
-- Flask
-- Django
-- Apache Spark
-- AWS SageMaker
-- Java SpringBoot
+👯 I’m open to hear about new ideas.
 
-### Current XP Gain:
-- Leveling up my Mathematics spellbook for Machine Learning mastery
-- Exploring arcane scrolls of AWS and Azure
-- Unveiling the secrets of MLOps for ultimate deployment enchantments
+🤔 I can help with things around ORMs. More specifically around Python and PostgreSQL!
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: Well, I code bugs, then I fix them!
