@@ -1,25 +1,38 @@
-# 💫 Hi there, I'm Meshack!
+<!-- README.md -->
 
-I'm a **Data Scientist** with a passion for tackling complex challenges in **data analysis** and **machine learning engineering**. I love turning raw data into actionable insights and building intelligent systems that make a real impact. 👨🏼‍💻
+# 👋🏽 Hey there, I'm Meshack
+
+> *"Turning data into decisions, one model at a time."*
+
+I'm a **Data Scientist & Machine Learning Engineer** with a knack for digging into data, building robust pipelines, and solving real-world problems using code and curiosity 🧠⚙️. I geek out over clean datasets, model performance, and automating the boring stuff.
 
 ---
 
-## 🌐 Connect with Me:
+## 🧭 Tech Radar
+
+- 🧪 Python, Pandas, NumPy, Scikit-learn, PyTorch
+- 📊 Data Wrangling, Visualization, Experimentation
+- 🤖 ML Engineering, MLOps, Model Deployment
+- 🛠️ APIs, Docker, Git, CI/CD
+
+---
+
+## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kimwele-meshack)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rich.kitonga)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@1shaks)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/k_kitonga_)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kitongameshack9@gmail.com)
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://nirzak-streak-stats.vercel.app/?user=kimxons&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kimxons&theme=dark&hide_border=false&layout=compact)
+<img src="https://nirzak-streak-stats.vercel.app/?user=kimxons&theme=radical&hide_border=true" alt="Streak Stats" width="49.5%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimxons&theme=radical&hide_border=true&layout=compact" alt="Top Langs" width="49.5%" />
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=kimxons&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=kimxons&label=Profile%20Views&color=6A5ACD&icon=5&pretty=true" alt="visit counter"/>
+</p>
