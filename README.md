@@ -1,5 +1,3 @@
-<!-- README.md -->
-
 # 👋🏽 Hey there, I'm Meshack
 
 > *"Turning data into decisions, one model at a time."*
@@ -32,7 +30,3 @@ I'm a **Data Scientist & Machine Learning Engineer** with a knack for digging in
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimxons&theme=radical&hide_border=true&layout=compact" alt="Top Langs" width="49.5%" />
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=kimxons&label=Profile%20Views&color=6A5ACD&icon=5&pretty=true" alt="visit counter"/>
-</p>
