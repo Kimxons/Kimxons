@@ -1,3 +1,8 @@
+<!-- 🎨 Custom Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/ZT0B9yx/github-banner-nerd.png" alt="Meshack Banner" width="100%" />
+</p>
+
 <h1 align="center">👋🏽 Hey there, I'm Meshack</h1>  
 <h3 align="center">Software Engineer & Data Scientist turning ideas into intelligent systems</h3>  
 
@@ -17,13 +22,13 @@
 ## 📊 GitHub Highlights  
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kimxons&theme=radical&hide_border=true&background=0D1117&ring=FF4655&fire=FF4655&currStreakLabel=FF4655" alt="Streak Stats" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kimxons&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FF4655&icon_color=FF4655" alt="GitHub Stats" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimxons&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4655" alt="Top Languages" width="32%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kimxons&theme=radical&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="Streak Stats" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kimxons&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C" alt="GitHub Stats" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimxons&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C" alt="Top Languages" width="32%" />
 </p>  
 
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/github/stars/kimxons?logo=star&style=for-the-badge&color=FF4655&label=Total%20Stars" alt="Total Stars" />
+  <img src="https://custom-icon-badges.demolab.com/github/stars/kimxons?logo=star&style=for-the-badge&color=00FF9C&label=Total%20Stars" alt="Total Stars" />
 </p>  
 
 ---
@@ -34,3 +39,7 @@
 - 🚀 Passionate about **automation, model deployment, and scaling ideas into products**.  
 - 🏆 Always learning, always building.  
 
+---
+
+<!-- Footer Quote -->
+<p align="center"><i>"Turning data into decisions, one model at a time."</i></p>
