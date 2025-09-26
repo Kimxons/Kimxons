@@ -1,8 +1,3 @@
-<!-- 🎨 Custom Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/ZT0B9yx/github-banner-nerd.png" alt="Meshack Banner" width="100%" />
-</p>
-
 <h1 align="center">👋🏽 Hey there, I'm Meshack</h1>  
 <h3 align="center">Software Engineer & Data Scientist turning ideas into intelligent systems</h3>  
 
