@@ -17,24 +17,14 @@
 ## 📊 GitHub Highlights  
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kimxons&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C" alt="GitHub Stats" width="49%" />
-
-    <img src="https://nirzak-streak-stats.vercel.app/?user=kimxons&theme=radical&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="Streak Stats" width="49%" />
-</p>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kimxons&theme=radical&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="Streak Stats" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kimxons&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C" alt="GitHub Stats" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimxons&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C" alt="Top Languages" width="32%" />
+</p>  
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimxons&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C" alt="Top Languages" width="32%" />
   <img src="https://custom-icon-badges.demolab.com/github/stars/kimxons?logo=star&style=for-the-badge&color=00FF9C&label=Total%20Stars" alt="Total Stars" />
-</p>
-
----
-
-## 🚀 Detailed Repository Stats
-
-<p align="center">
-  <img src="https://github-stats-card.anmol-singh.workers.dev/api/repo/Kimxons/DataFusion-App" 
-       alt="Detailed Repository Stats Card" />
-</p>
+</p>  
 
 ---
 
@@ -46,4 +36,5 @@
 
 ---
 
+<!-- Footer Quote -->
 <p align="center"><i>"Turning data into decisions, one model at a time."</i></p>
